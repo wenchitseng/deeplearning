@@ -1,4 +1,4 @@
-# UCI Deep Learning Coursework
+# UCI Deep Learning Coursework: Fruits fresh and rotten for classification
 This coursework uses TensorFlow to determine whether a fruit in an image is fresh or rotten.
 
 ### 🔗 Data Source: 
